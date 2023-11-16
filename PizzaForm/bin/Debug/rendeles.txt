@@ -1,0 +1,60 @@
+Számlát Nem kér, Fizetési mód: Bankkártya
+Hawaii 3db
+Számlát Nem kér, Fizetési mód: Készpénz
+Sorrento 1db
+Számlát Nem kér, Fizetési mód: Készpénz
+Vesuvio ára: 900 2db
+Számlát Kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db
+Számlát Kér, Fizetési mód: Készpénz
+Sorrento ára: 1050 3db
+Számlát Kér, Fizetési mód: Készpénz
+Sorrento ára: 1050 3db
+3150
+Számlát Kér, Fizetési mód: Készpénz
+Sorrento ára: 1050 3db
+Vesuvio ára: 900 3db
+2700
+Számlát Nem kér, Fizetési mód: Készpénz
+Frutti di Mare ára: 1350 3db
+2700
+Vesuvio ára: 900 3db
+2700
+Számlát Kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db
+Vesuvio ára: 900 2db
+3600
+Számlát Kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db
+Vesuvio ára: 900 2db
+Sorrento ára: 1050 3db
+9450
+Számlát Nem kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db. Összérték: 1700
+Vesuvio ára: 900 2db. Összérték: 1800
+Fizetendő összeg: Vesuvio ára: 900 2db. Összérték: 1800
+Számlát Nem kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db. Összérték: 1700
+Vesuvio ára: 900 2db. Összérték: 1800
+Fizetendő összeg: Vesuvio ára: 900 2db. Összérték: 1800
+Számlát Nem kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db. Összérték: 1700
+Vesuvio ára: 900 2db. Összérték: 1800
+Fizetendő összeg: Vesuvio ára: 900 2db. Összérték: 1800
+Számlát Nem kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db. Összérték: 1700
+Vesuvio ára: 900 2db. Összérték: 1800
+Fizetendő összeg: 3600
+Számlát Nem kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db. Összérték: 1700
+Vesuvio ára: 900 2db. Összérték: 1800
+Sorrento ára: 1050 2db. Összérték: 2100
+Fizetendő összeg: 6300
+Számlát Nem kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db.
+Vesuvio ára: 900 2db.
+Fizetendő összeg: 34003600
+Számlát Nem kér, Fizetési mód: Készpénz
+Hawaii ára: 850 2db.
+Vesuvio ára: 900 2db.
+Fizetendő összeg: 3600
